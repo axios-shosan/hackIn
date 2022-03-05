@@ -1,0 +1,15 @@
+.Head-container{
+    display: flex;
+    flex-direction: row;
+}
+
+.Head-inputs{
+    display: flex;
+    flex-direction: column;
+    margin : 35px 25px;
+}
+
+.inputs{
+    display: flex;
+    flex-direction: row;
+}
